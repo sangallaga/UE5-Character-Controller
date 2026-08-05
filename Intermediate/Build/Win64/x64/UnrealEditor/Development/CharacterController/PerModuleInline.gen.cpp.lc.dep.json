@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\charactercontroller\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\charactercontroller\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\charactercontroller\\intermediate\\build\\win64\\x64\\charactercontrollereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\charactercontroller\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\charactercontroller\\definitions.charactercontroller.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
